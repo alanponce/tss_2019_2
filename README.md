@@ -1,4 +1,6 @@
-# tss_2019_2
+# Project tss_2019_2
+
+Read the questions carefully and submit your answers
 
 1.- Create a numeric vector that contains the eight planets of our solar system. Then, create another vector containing the name for each planet (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune). After that,  you should assign the number of the planet and its respective name. Finally, you should  select and print the planets related to the names Earth, Mars, and Jupiter.
 
